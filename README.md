@@ -6,10 +6,10 @@ This project is a pre-interview challenge that visualizes the transformation of 
 The outer border (green cells) rotates clockwise.
 The center 2x2 red block rotates in place.
 Features
-✅ Users can select matrix sizes: 6x6, 8x8, 10x10, etc.
-✅ The input matrix is displayed before transformation.
-✅ The output matrix is displayed after transformation.
-✅ Visual representation with colored cells:
+* Users can select matrix sizes: 6x6, 8x8, 10x10, etc.
+* The input matrix is displayed before transformation.
+* The output matrix is displayed after transformation.
+* Visual representation with colored cells:
 
 🟩 Green for the outer border
 🔴 Red for the center 2x2 block
